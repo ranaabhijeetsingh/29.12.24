@@ -1,20 +1,16 @@
 {
-  "name": "backendrevision",
+  "name": "backend-code",
   "version": "1.0.0",
-  "description": "Taking a next step in learning path",
+  "description": "\" backend learning \"",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "hello",
-    "codingworld"
+    "world",
+    "backend"
   ],
   "author": "Abhijeet",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "express": "^4.21.1"
-  }
+  "license": "ISC"
 }
